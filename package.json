@@ -1,0 +1,13 @@
+{
+  "name": "not-found",
+  "version": "0.0.0",
+  "description": "Components with pages 404",
+  "main": "index.jsx",
+  "repository": "https://github.com/evless/not-found",
+  "author": "Evless",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  }
+}
